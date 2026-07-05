@@ -1,0 +1,29 @@
+TheVoyager — View-Only License
+
+Copyright (c) 2026 Jinju Lee (PearlLeeStudio). All rights reserved.
+
+This repository is published as a read-only portfolio exhibit.
+
+Permission is granted to view, read, and reference the contents of this
+repository, including quoting short excerpts for the purpose of review,
+criticism, or discussion of the work.
+
+No other rights are granted. Without the author's prior written
+permission, you may not use, copy, modify, merge, publish, distribute,
+sublicense, or sell these materials or any substantial part of them, or
+use them as training data for machine-learning systems.
+
+The artwork's data — the author's diary text, photographs, and rendered
+audio — is not part of this repository and is not licensed.
+
+The music-generation engine used by this project (TheArtist) is
+published separately under its own licenses: code at
+github.com/PearlLeeStudio/TheArtist (MIT), model weights at
+huggingface.co/PearlLeeStudio (CC BY-NC 4.0).
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE MATERIALS OR THEIR
+VIEWING.
+
+Contact: pearl1379@gmail.com
